@@ -3,7 +3,7 @@ Tableau: Premiere League Dashboard
 
 Tableau Link: https://public.tableau.com/views/Non-PenaltyExpectedGoalsvsExpectedAssists/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-GitHub Link: https://anthonyp16.github.io/Premiere_League_Dashboard/
+GitHub Link: https://anthonyp16.github.io/Tableau_Premiere_League_Dashboard/
 
 Dashboard Glossary:
   Progressive carries - measures moving the ball towards the opponent's goal at least 5 yards, or any carry into the penalty area. Excludes the defending 40% of the pitch.
