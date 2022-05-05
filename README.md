@@ -4,7 +4,7 @@ Tableau: Premiere League Dashboard
 Tableau Link: https://public.tableau.com/views/PremiereLeagueDashboard2/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 GitHub Link: https://anthonyp16.github.io/Tableau_Premiere_League_Dashboard/
 
-Dashboard Glossary:
+Dashboard Glossary: <br>
   Progressive carries - measures moving the ball towards the opponent's goal at least 5 yards, or any carry into the penalty area. Excludes the defending 40% of the pitch.
 
   Dispossessed - measures number of times a player loses control of the ball after being tackled by an opposing player. Does not include dribble attempts.
