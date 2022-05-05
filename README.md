@@ -1,7 +1,7 @@
 # Premiere_League_Dashboard
-Tableau: Premiere League Dashboard
+Tableau: Premiere League Dashboard <br>
 
-Tableau Link: https://public.tableau.com/views/PremiereLeagueDashboard2/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+Tableau Link: https://public.tableau.com/views/PremiereLeagueDashboard2/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link <br>
 GitHub Link: https://anthonyp16.github.io/Tableau_Premiere_League_Dashboard/
 
 Dashboard Glossary: <br>
