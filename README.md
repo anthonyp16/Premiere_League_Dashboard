@@ -1,6 +1,6 @@
 # Tableau: Premiere_League_Dashboard <br>
 
-Tableau Link: https://public.tableau.com/views/PremiereLeagueDashboard2/MainDashboard?:language=en-US&:display_count=n&:origin=viz_share_link <br>
+Tableau Link: https://public.tableau.com/app/profile/paul7885/viz/PremiereLeagueDashboard2/MainDashboard <br>
 GitHub Link: https://anthonyp16.github.io/Tableau_Premiere_League_Dashboard/ <br>
 FBref Link: https://fbref.com/en/
 
